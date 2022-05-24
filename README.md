@@ -1,2 +1,8 @@
 # minicorso-matlab
-questo repository è di supporto al minicorso da me tenuto per l'utilizzo di MATLAB
+Questo repository è di supporto al minicorso da me tenuto su MATLAB.
+
+repository in costruzione
+:construction_worker_man:	
+
+----
+MC
